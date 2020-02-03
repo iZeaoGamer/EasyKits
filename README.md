@@ -1,7 +1,7 @@
 # EasyKits
  A kit plugin for everyone
  
- ![kit creation](media/kitcreation.gif)
+![koth](media/koth.png)
 
 ## Features
 - [x] **Easy:**
